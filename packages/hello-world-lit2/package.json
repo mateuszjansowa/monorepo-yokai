@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-lit2",
+  "version": "1.0.0",
+  "description": "Hello world using lit v2",
+  "main": "src/hello-world-lit2.js",
+  "author": "Mateusz Sowa",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.8.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-lit4",
+  "version": "1.0.0",
+  "description": "Hello world from lit 4",
+  "main": "src/hello-world-lit-4.js",
+  "keywords": [],
+  "author": "Mateusz Sowa",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^3.2.1"
+  }
+}
